@@ -9,5 +9,5 @@ int main()
 
 void hello()
 {
-  print("hello,world\b");
+  printf("hello? world\n");
 }
